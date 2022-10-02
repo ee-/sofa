@@ -7,5 +7,9 @@ http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OT
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
 http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 ,Formula One
+#EXTINF:-1 ,Formula1 FHD
 http://pull-qn.tv189.com/live/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&encrypt=c9f7a4f9c69590c85a221b2b2d4c0994&ua=30&nettype=12&imsi=&guid=cf04300c-a642-bec2-fa6a-9e7947fdf7fb&playseek=1
+#EXTINF:-1 ,Formula1 4K
+http://liveplay.ctx.tv189.com/live/f1zb4k-4000k.m3u8?sign=&sid=C8000000000000000001661750980383&msisdn=40000000000&spid=&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=caa4dabe48e82212cbe08a8fd46167e8&ua=10&nettype=12&imsi=&guid=decdca0b-fb81-8000-039c-9579bf475ca9&playseek=1
+#EXTINF:-1 ,Formula1 Raw
+http://liveplay.ctx.tv189.com/live/f1zb-raw-4000k.m3u8?sign=&sid=C8000000000000000001664612701839&msisdn=40000000000&spid=&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=cf7085f01e128ab321d0d124f3e157f6&ua=30&nettype=12&imsi=&guid=7b179520-6452-11ec-b79e-b3292504a244&playseek=1
