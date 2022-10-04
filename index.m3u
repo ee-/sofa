@@ -56,12 +56,12 @@ http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.c
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天翼云",F1 Raw
-http://liveplay.ctx.tv189.com/live/f1zb-raw-4000k.m3u8?sign=&sid=C8000000000000000001664612701839&msisdn=40000000000&spid=&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=cf7085f01e128ab321d0d124f3e157f6&ua=30&nettype=12&imsi=&guid=7b179520-6452-11ec-b79e-b3292504a244&playseek=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天翼云",F1 4K
 http://liveplay.ctx.tv189.com/live/f1zb4k-8m.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&encrypt=c9f7a4f9c69590c85a221b2b2d4c0994&ua=30&nettype=12&imsi=&guid=cf04300c-a642-bec2-fa6a-9e7947fdf7fb&playseek=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天翼云",F1 FHD
 http://liveplay.ctx.tv189.com/live/f1zb-4000k.m3u8?sign=&sid=C8000000000000000001661750675248&msisdn=40000000000&encrypt=c9f7a4f9c69590c85a221b2b2d4c0994&ua=30&nettype=12&imsi=&guid=cf04300c-a642-bec2-fa6a-9e7947fdf7fb&playseek=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="天翼云",F1 Raw
+http://liveplay.ctx.tv189.com/live/f1zb-raw-4000k.m3u8?sign=&sid=C8000000000000000001664612701839&msisdn=40000000000&spid=&H=115010310149&channelid=01833310&nodeid=&videotype=1&encrypt=cf7085f01e128ab321d0d124f3e157f6&ua=30&nettype=12&imsi=&guid=7b179520-6452-11ec-b79e-b3292504a244&playseek=1
 
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港澳台",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
