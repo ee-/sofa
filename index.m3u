@@ -38,7 +38,7 @@ http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.ch
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png",辽宁体育
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3178364233_-950038637/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226187/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
