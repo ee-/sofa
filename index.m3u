@@ -33,6 +33,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3669132437_-1850260639/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN
 http://[2409:8087:1414:22::112d]/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227148/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
@@ -81,3 +85,6 @@ https://github.com/etag2000/IPTV/raw/YTlive/ctvnews.m3u8
 https://github.com/etag2000/IPTV/raw/YTlive/setlive.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",BloombergTV
 https://github.com/etag2000/IPTV/raw/YTlive/bloombergfinance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="douyin" tvg-logo="" group-title="抖音",抖音
+https://pull-spe-l3.douyincdn.com/fantasy/stream-7168813858243971870_spuhd.flv?_neptune_token=MIGpBAxH2FgYQpUaLHAxDiEEgYa7iWbDXefWMGmzNzgO_SflUc0uR2TlQ6vebl0CvhKja-X4sKFwVLtZwUnFiq9u2EewuBA0A9Rav7Vr36Cn_kcP6Bxk4Xpy6M_NQxoUe0Fi0VHwybACZutj--YvMJOZUl8ufKYrirfrCX1meYKcH9RRcLCRPA_KiJ_Hqiu0fNRwNg3j8kdkyAQQbRRLvTLcIhLL_N0GmQu5Nw&auth_key=1669205504-0-0-8eadfcc617ccf931d9f294e0a23bec7f&abr_pts=-1800
+
